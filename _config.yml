@@ -1,3 +1,3 @@
 #building website
-markdown: python-markdown
+markdown: markdown
 theme: jekyll-theme-cayman
