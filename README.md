@@ -1,7 +1,7 @@
 ### Wow!!!
 ## Testing
 # Showing different types
-```{python}
+<<engine='python', engine.path='python3'>>=
 x = cheese
 print(x)
-```
+
