@@ -1,1 +1,7 @@
-Initial attempts to create a website for hliu26
+### Wow!!!
+## Testing
+# Showing different types
+```{python}
+x = cheese
+print(x)
+```
