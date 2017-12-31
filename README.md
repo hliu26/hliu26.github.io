@@ -1,7 +1,12 @@
 ### Wow!!!
 ## Testing
 # Showing different types
-<<engine='python', engine.path='python3'>>=
+```{r engine = 'python', highlight=TRUE}
+i=1
+print(i);
+```
+
+```{python}
 x = cheese
 print(x)
-
+```
