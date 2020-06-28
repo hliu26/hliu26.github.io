@@ -1,3 +1,5 @@
 #building website
 markdown: kramdown
 theme: jekyll-theme-cayman
+title: Howard's GitHub.IO
+description: Attempts to find an accurate portrayal of my interests through a github-hosted page.
